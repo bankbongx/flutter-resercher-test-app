@@ -1,1 +1,1 @@
-# flutter-resercher-test-app
+# flutter-researcher-test-app
